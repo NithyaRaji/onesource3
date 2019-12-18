@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="3500" started-at="2019-12-16T08:23:42Z" finished-at="2019-12-16T08:23:46Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="3500" started-at="2019-12-16T08:23:42Z" finished-at="2019-12-16T08:23:46Z">
+      <class name="Map.Google.GoogleSearch">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Map.Google.GoogleSearch@7c16905e]" name="beforeMethod" is-config="true" duration-ms="2395" started-at="2019-12-16T13:53:42Z" finished-at="2019-12-16T13:53:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test()[pri:0, instance:Map.Google.GoogleSearch@7c16905e]" name="test" duration-ms="1006" started-at="2019-12-16T13:53:45Z" finished-at="2019-12-16T13:53:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Map.Google.GoogleSearch@7c16905e]" name="afterMethod" is-config="true" duration-ms="87" started-at="2019-12-16T13:53:46Z" finished-at="2019-12-16T13:53:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Map.Google.GoogleSearch -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
