@@ -20,7 +20,7 @@ public class GoogleSearch {
 	WebDriver driver;
 	@BeforeTest
 	public void beforeMethod() {
-		System.setProperty("webdriver.chrome.driver", "/Users/nithyar/Downloads/Drivers/chromedriver");
+		System.setProperty("webdriver.chrome.driver", "../Drivers/chromedriver/Drivers/chromedriver");
 		driver = new ChromeDriver();
 		driver.get("https://www.google.com");
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);				
